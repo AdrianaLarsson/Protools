@@ -1,0 +1,42 @@
+--------------------------------------------------------------------------------
+Notes
+--------------------------------------------------------------------------------
+--------------------------------------------------------------------------------
+--------------------------------------------------------------------------------
+Your I/O setup has changed since the last time this session was saved.  Check the I/O Setups window to see what's changed.
+
+--------------------------------------------------------------------------------
+Missing or inactive plug-ins
+--------------------------------------------------------------------------------
+Track "AlldrumsComp" Insert A ("4030 Retro Comp") has been made Inactive because the plug-in is not present in the plug-ins folder.
+Track "DrumCymbaler1" Insert A ("Active Equalizer") has been made Inactive because the plug-in is not present in the plug-ins folder.
+Track "Guitar 4" Insert A ("4020 Retro EQ") has been made Inactive because the plug-in is not present in the plug-ins folder.
+Track "LEAD 1" Insert A ("Compressor Bank CB1") has been made Inactive because the plug-in is not present in the plug-ins folder.
+Track "Gospel Lead" Insert A ("Compressor Bank CB101") has been made Inactive because the plug-in is not present in the plug-ins folder.
+Track "Gospel Lead" Insert B ("Revolver") has been made Inactive because the plug-in is not present in the plug-ins folder.
+--------------------------------------------------------------------------------
+Missing Stems
+--------------------------------------------------------------------------------
+The input path "1-2 1" was made inactive because its stem is missing.
+The input path "1-2" was made inactive because its stem is missing.
+The input path "1-2" was made inactive because its stem is missing.
+The input path "1-2" was made inactive because its stem is missing.
+The input path "1-2 1" was made inactive because its stem is missing.
+The input path "1-2 1" was made inactive because its stem is missing.
+The input path "Built-in Input 2" was made inactive because its stem is missing.
+The input path "1-2 1" was made inactive because its stem is missing.
+The input path "1-2 1" was made inactive because its stem is missing.
+The input path "1-2 1" was made inactive because its stem is missing.
+The input path "3-4" was made inactive because its stem is missing.
+The input path "1-2" was made inactive because its stem is missing.
+The input path "1-2" was made inactive because its stem is missing.
+The input path "3-4 3" was made inactive because its stem is missing.
+The input path "1-2" was made inactive because its stem is missing.
+The input path "1-2" was made inactive because its stem is missing.
+The input path "1-2 2" was made inactive because its stem is missing.
+The input path "1-2" was made inactive because its stem is missing.
+The input path "1-2 1" was made inactive because its stem is missing.
+The input path "1-2 1" was made inactive because its stem is missing.
+The input path "1-2 1" was made inactive because its stem is missing.
+The input path "1-2" was made inactive because its stem is missing.
+The input path "1-2" was made inactive because its stem is missing.
